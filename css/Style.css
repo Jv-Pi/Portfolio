@@ -9,6 +9,10 @@ body {
     font-size: 2em;
 }
 
+#collapseMenu {
+    background-color: rgba(255, 255, 255, 1);
+}
+
 #collapseMenu>ul {
     padding: 2rem;
     display: flex;
